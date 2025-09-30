@@ -219,7 +219,8 @@ SELECT
 - Replacement vs. repair recommendations
 - Fuel efficiency correlations
 
-<img width="1005" height="570" alt="image" src="https://github.com/user-attachments/assets/da905bcc-c19b-4101-9e77-8f46ee33f958" />
+<img width="761" height="410" alt="image" src="https://github.com/user-attachments/assets/004d3b61-26c8-46cd-891a-7ff5ca5d9940" />
+
 
 
 ---
@@ -320,3 +321,4 @@ SELECT
 
 
 *Built with 📊 by Manikanta | Transforming data into business value*
+
