@@ -302,17 +302,12 @@ SELECT
 
 **Manikanta** | Business Intelligence Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?logo=google-chrome)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/manikanta-chavvakula-43b308189)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?logo=google-chrome)](https://manikanta-portfolio-six.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:manikantaa.dev@gmail.com)
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🏷️ Tags
 
