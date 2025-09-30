@@ -219,7 +219,8 @@ SELECT
 - Replacement vs. repair recommendations
 - Fuel efficiency correlations
 
-[**Screenshot Placeholder: Dashboard Preview**]
+<img width="1005" height="570" alt="image" src="https://github.com/user-attachments/assets/da905bcc-c19b-4101-9e77-8f46ee33f958" />
+
 
 ---
 
@@ -316,5 +317,6 @@ SELECT
 ---
 
 **⭐ If you found this project insightful, please star this repository!**
+
 
 *Built with 📊 by Manikanta | Transforming data into business value*
